@@ -1,0 +1,27 @@
+.container{
+  max-width: 960px; /* Ajuste conforme necessário */
+  width: 100%;
+  padding: 1rem; /* Ajuste conforme necessário */
+  box-sizing: border-box;
+  margin: auto;
+}
+
+.bg-full {
+  background-color: #cf2e2e;
+  max-width: 100%;
+}
+
+.layout {
+    display: flex;
+    flex-direction: column;
+}
+
+.p-title{
+  color: white;
+  font-size: 0.775em;
+}
+
+.nav ul li a {
+  text-decoration: none;
+  color: white;
+}
